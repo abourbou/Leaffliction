@@ -1,1 +1,4 @@
 matplotlib
+argparse
+cv2
+torchvision
